@@ -49,6 +49,6 @@ async function main() {
   await client.migrate(migration);
 
   console.log(
-    `Done! Next, visit https://${sm.repositoryName}.prismic.io/builder/migration to publish your release.`,
+    `Done! Next, visit https://${sm.repositoryName}.example.co,/builder/migration to publish your release.`,
   );
 }
