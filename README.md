@@ -2,7 +2,7 @@
 
 This is the final code for the YouTube tutorial course where we build a 3D animated e-commerce landing page for the fictional soda brand, Fizzi!
 
-For more information and to watch the course go to the [course documentation](https://dub.sh/fizzi).
+
 
 ## Skip the tutorial and launch the site
 
